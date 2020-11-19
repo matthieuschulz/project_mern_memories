@@ -1,0 +1,20 @@
+(p^-p) is a binary. The first part is p and the second part is -p  
+(p^-p) is not satisfiable.
+-(p>p) is a negation.  
+-(p>p) is not satisfiable.
+-(p>(q>p)) is a negation.  
+-(p>(q>p)) is not satisfiable.
+-((p>q)>p) is a negation.  
+-((p>q)>p) is satisfiable.
+--((pvq)>(-p^-q)) is a negation.  
+--((pvq)>(-p^-q)) is satisfiable.
+((p>q)^(q>p)) is a binary. The first part is (p>q) and the second part is (q>p)  
+((p>q)^(q>p)) is satisfiable.
+-((p>(qvr))>((p>q)v(p>r))) is a negation.  
+-((p>(qvr))>((p>q)v(p>r))) is not satisfiable.
+((p>(qvr))>((p>q)v(p>r))) is a binary. The first part is (p>(qvr)) and the second part is ((p>q)v(p>r))  
+((p>(qvr))>((p>q)v(p>r))) is satisfiable.
+((p>q)^(-q>-p)) is a binary. The first part is (p>q) and the second part is (-q>-p)  
+((p>q)^(-q>-p)) is satisfiable.
+((pvq)^p>-q) is not a formula.  
+I told you, ((pvq)^p>-q) is not a formula.
